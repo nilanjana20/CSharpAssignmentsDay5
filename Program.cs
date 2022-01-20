@@ -8,7 +8,8 @@ public class Program
 		{
 		//   FlipCoin.FlipCoinSolution();
 		    //  LeapYear.LeapYearSolution();
-		  	 PowerOfTwo.PowerOfTwoSolution();
+		  	//  PowerOfTwo.PowerOfTwoSolution();
+			    HarmonicNumber.HarmonicNumberProgram();
 		}
 }
 
