@@ -7,7 +7,8 @@ public class Program
 	public static void Main(string[] args)
 		{
 		//   FlipCoin.FlipCoinSolution();
-		     LeapYear.LeapYearSolution();
+		    //  LeapYear.LeapYearSolution();
+		  	 PowerOfTwo.PowerOfTwoSolution();
 		}
 }
 
