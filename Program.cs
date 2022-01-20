@@ -6,10 +6,11 @@ public class Program
 {
 	public static void Main(string[] args)
 		{
-		//   FlipCoin.FlipCoinSolution();
+	    	//  FlipCoin.FlipCoinSolution();
 		    //  LeapYear.LeapYearSolution();
 		  	//  PowerOfTwo.PowerOfTwoSolution();
-			    HarmonicNumber.HarmonicNumberProgram();
+			//  HarmonicNumber.HarmonicNumberProgram();
+				Factors.FactorsProgram();
 		}
 }
 
