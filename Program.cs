@@ -11,7 +11,8 @@ public class Program
 		  	//  PowerOfTwo.PowerOfTwoSolution();
 			//  HarmonicNumber.HarmonicNumberProgram();
 			//  Factors.FactorsProgram();
-			    QuotientRemainder.QuotientRemainderProgram();
+			// QuotientRemainder.QuotientRemainderProgram();
+				SwapNumbers.SwapNumberProgram();
 		}
 }
 
