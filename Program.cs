@@ -13,7 +13,8 @@ public class Program
 			//  Factors.FactorsProgram();
 			// QuotientRemainder.QuotientRemainderProgram();
 				// SwapNumbers.SwapNumberProgram();
-				EvenOdd.EvenOddProgram();
+				// EvenOdd.EvenOddProgram();
+				VowelConsonant.VowelConsonantProgram();
 		}
 }
 
