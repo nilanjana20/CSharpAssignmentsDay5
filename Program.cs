@@ -12,7 +12,8 @@ public class Program
 			//  HarmonicNumber.HarmonicNumberProgram();
 			//  Factors.FactorsProgram();
 			// QuotientRemainder.QuotientRemainderProgram();
-				SwapNumbers.SwapNumberProgram();
+				// SwapNumbers.SwapNumberProgram();
+				EvenOdd.EvenOddProgram();
 		}
 }
 
